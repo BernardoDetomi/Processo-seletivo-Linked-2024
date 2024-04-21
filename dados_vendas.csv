@@ -1,0 +1,10 @@
+ID do Cliente,Data da Venda,Valor da Venda,Produto Vendido,Canal de Vendas,Região
+001,2023-01-05,150,Produto A,Loja Física,Norte
+002,2023-01-10,200,Produto B,Loja Online,Sul
+003,2023-01-15,100,Produto C,Loja Física,Nordeste
+004,2023-02-02,300,Produto A,Loja Online,Sudeste
+005,2023-02-10,250,Produto B,Loja Física,Sul
+006,2023-02-15,180,Produto C,Loja Online,Nordeste
+007,2024-01-01,150,Produto C,Loja Online,Sudeste
+008,2024-02-02,200,Produto A,Loja Online,Sudeste
+009,2024-01-15,250,Produto A,Loja Online,Sudeste
